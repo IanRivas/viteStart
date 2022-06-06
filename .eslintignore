@@ -1,5 +1,5 @@
 node_modules
 dist
-cypress.config.js
+cypress.config.ts
 jest.config.js
 vite.config.js
